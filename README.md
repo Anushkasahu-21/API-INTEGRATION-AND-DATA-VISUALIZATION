@@ -76,6 +76,13 @@ The chatbot will provide the relevant command.
 
 ### Note:
 For further customization or usage, refer to the provided documentation links. Ensure you handle sensitive information, like API keys, securely and do not expose them in public repositories.
+**output of the task**:
+![Image](https://github.com/user-attachments/assets/f987211b-01e9-466a-a4a4-a597edf0bf89)
 
+![Image](https://github.com/user-attachments/assets/19c39d41-4b62-439f-ae64-c66fc42b0426)
+
+![Image](https://github.com/user-attachments/assets/426ec4ab-6eee-4420-b897-20e47982bb45)
+
+![Image](https://github.com/user-attachments/assets/6322bfcc-57e5-4445-885b-56e62ad64c44)
 
 
